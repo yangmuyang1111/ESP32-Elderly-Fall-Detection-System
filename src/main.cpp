@@ -8,7 +8,7 @@
 
 //http://192.168.4.1/
 
-
+//zlh
 // 全局变量声明
 FallDetection fallDetector;
 AsrCommunication asrComm;
